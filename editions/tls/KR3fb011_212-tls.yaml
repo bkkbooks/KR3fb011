@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb011/tls/v1/juan/212
+seq: 212
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 一書深觀陰陽消息實有萬弗獲巳者冀通微君子亦或有取焉爾曆測下卷終
+  hash: sha256:d89cb00dd183456a548daee7eb3a2bf41b4dc028117b28c5e00dd2460ab4c3da
+metadata:
+  title: 曆測
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb011.xml
+hash: sha256:cfafbdb49f5ddea753399f63f78cc3d6a2350084db9fab6b258aa4c94c450e69

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb011/tls/v1/juan/113
+seq: 113
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 曆測
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb011.xml
+hash: sha256:8831fcee2b44524d7b952aacd3ea6bfa04e6ff52f7edb0f3f88f57cfd2daa3ea

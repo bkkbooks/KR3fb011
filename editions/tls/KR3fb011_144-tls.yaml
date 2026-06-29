@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb011/tls/v1/juan/144
+seq: 144
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 一千一百九十一算梁大通二年庚戌歲五月庚寅望月食甚在子一千九十九算大同九年癸亥歲三月乙已望月食三更三唱初虧一千八十六算隋開皇十二年壬子歲七月已未望月食一更三唱初虧一千三十七算十五年已卯歲十一月庚午望月食一更四點初虧二更三點食甚三更一點復滿一千三十四算十六年庚辰歲十一月甲子望月食四更三點復滿一千三十三算後漢天福十二年丁未歲二月乙未望月食四更四點初虧六百八十二算宋皇祐四年壬辰歲十一月丙辰望月食寅四刻初虧
+  hash: sha256:a2fed9356db50496e8e015102be036ce06e9a436b54b16cca0a65d6e46e8c3e1
+metadata:
+  title: 曆測
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb011.xml
+hash: sha256:3a6b9a7f024ff15fcde7ca4a915aa4939b580f40981c7dd60a28eb2339a06df9

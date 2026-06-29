@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb011/tls/v1/juan/98
+seq: 98
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 推步天象者余頗悟其竅有年矣蓋天有極而極握乎機故極有九句也句之句之又從而句之機乎知機之謂神矣割圓之旁狀如椰瓢圖於左以備測驗推步者準焉
+  hash: sha256:dd2d6fa9d01c7d92cf85be99a6b3d612b8f63340917efb24361e081a526f7ef0
+metadata:
+  title: 曆測
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb011.xml
+hash: sha256:fb8a800d83ad1fd0e87800a2d7e4451eb55a9bd8fc0f582b13ede1402427bd4d

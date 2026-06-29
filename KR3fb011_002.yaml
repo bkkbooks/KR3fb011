@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb011/tls/v1/juan/2
+seq: 2
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 伊遂古之初筆推策自黃帝而歷數興顓頊始設專官諸法軼莫可考至於帝堯分命典職尚書具載察中星辨凉燠其於法象蓋猶神明之也有虞法駸備在衡齊政千古靡越範圍夏商紹世羲和或曠厥守甚有辰弗集而馳庶人者遞溯絫下逢世而聖莫如周公遁世而聖莫如尼父天且弗違於通晝夜何有乃周僅傳圡圭魯史於日蝕不
+  hash: sha256:4e4fa4c6b24d7be7dd71e7c641081abc87033cadf7ef9831a05102c40ad4c8ab
+metadata:
+  title: 曆測
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb011.xml
+hash: sha256:ba763acb5093a9ea4486b7eaa83ba5f5cc7f59fb9a6a997a69751876a45ae8de

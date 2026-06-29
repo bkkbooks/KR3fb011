@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb011/tls/v1/juan/48
+seq: 48
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 朔差度四一二三五二五入朔遲曆十二日九八九四七五入朔遲限一百五十八四七遲差一度三八三六九三八遲行度一度二一二加差四刻三八八一定朔二十五日四六五五六一月朔已丑日已初三刻合朔冬至加時日𨇠赤道斗宿十二度三十六分五十秒冬至加時日𨇠黃道斗宿三十八分三秒七十六微定入遲曆十三日三三三五六遲限一百五十九定限行度一度一一九九午前九刻三四四四時差三刻九五五二食甚定分三十六刻七四距午一十三刻二九九六日晨分二十六刻七六一一
+  hash: sha256:8fa1881f45ecc51cc9dc4726e1432fb64db94c085b2d306b3e2937201249a4b1
+metadata:
+  title: 曆測
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb011.xml
+hash: sha256:81e6a78a37f6f6b0e1437aafe31eb3533f3dbf5752efc68db60a900f7ba3db1a

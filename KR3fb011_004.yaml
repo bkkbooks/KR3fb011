@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb011/tls/v1/juan/4
+seq: 4
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 憚大書特書即近聖如丘明絶未一衍交食之義詎存而不論夫亦聖有不知耶漢諸儒仲舒向雄輩群以明天道自詡顧災祥徵應互舛玄文鑿祭率墮冥虛揆厥所繇於數於法槩未有曙蒼蒼者亦任其遠而無至極耳粵惟劉宋祖冲之研精兹學窮極數法爰製大明曆日月星辰運旋遲疾纎悉顜若畫一質諸亘古有神聖復起莫能損益者於時惜格異議曆法猶晦未
+  hash: sha256:7fd7bee0d136ab608c3d4916dd8129549bae03e7f9ea99a33e103208221d62cd
+metadata:
+  title: 曆測
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb011.xml
+hash: sha256:d42bc1fcfabbe42ae7ebc9951bb9af8794327e3d1d1d0b28bc5115c3a2f85e53

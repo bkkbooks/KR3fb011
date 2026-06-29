@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb011/tls/v1/juan/52
+seq: 52
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 開方積九十分七八八七七五平方數九分五二八二定用分四刻八八三六初虧三十一刻八一六八復圓四十一刻五八四黃道定度三百六十七度八八七三五一以授時曆推得宋文帝元嘉六年巳已歲十一月已丑朔日食起復方位時刻分秒開後日食六分九十六秒
+  hash: sha256:33ad23af9028d9d4f6c679d439907fef2bc8a6af035a42bbffca1353a4dbfec0
+metadata:
+  title: 曆測
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb011.xml
+hash: sha256:d094a4c18125932682375974aa1f8087ee3c7feaa1a3b1938c0ae4edd8c90af5

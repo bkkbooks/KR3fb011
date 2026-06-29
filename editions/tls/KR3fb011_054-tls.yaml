@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb011/tls/v1/juan/54
+seq: 54
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 初虧辰初二刻西北食甚辰正三刻正北復圓已初四刻東北食甚日𨇠黃道斗宿二度六十二分九十八秒五十一微綱目云日食晝星見又云不盡如鉤以授時曆法推求止六分九十六秒何云不盡如鉤何云晝星見固知郭曆舛矣今又三百四十七年其差甚矣魁著曆測一書待同志者修改云
+  hash: sha256:5334126775ae0d33989b6e453dd767c6c5ca8c4da897e8ac23d0b056fc420af1
+metadata:
+  title: 曆測
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb011.xml
+hash: sha256:81afded8cf3d70a9d29da80268c56f28152cc757db288487b137f219db9cc831

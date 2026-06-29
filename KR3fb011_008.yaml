@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb011/tls/v1/juan/8
+seq: 8
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 喜越七年領郡上谷迫欲因書識其人則邢觀察往矣客有言魏生者延置郡閣抵掌纍日玄象進退往復之故暨曆象考測諸法繇唐虞迄勝國靡不鉤索深隱洞究合離因出曆測一編細為簡閲浮采芟滌數法賅存譬衡設而輕重在懸足闡冲之未竟之業令守敬瞪乎後者不意千古曆法至今克明真熙代盛事也魏生志僻服野髮種種須杖始行獨於今古未明一
+  hash: sha256:e38b1ff259b91a1eb06775327297308c5bd3c417e0ca046177ba243d478f2431
+metadata:
+  title: 曆測
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb011.xml
+hash: sha256:ecef672b6176536aa7c474fd490fb9d6ae16456a8a5b934d0938bc7698946dd0

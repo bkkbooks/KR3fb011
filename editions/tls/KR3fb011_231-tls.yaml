@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb011/tls/v1/juan/231
+seq: 231
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 余髫歲受帖括家言竊私心厭苦强朿墪師弗善也間從篋中獲黃帝吱伯曁甘石管郭諸家書稍稍嗜之雖未䆒厥本原嗜生習習成惟獨咀味不歚棄去人多以癖見哂皍余亦自哂終不解癖嗜何故也偶遘魏太乙氏于上谷得曆測讀之徵往察來探數立法言有故理有極其於天道鑿鑿乎如規矩之肖方圓權度之制輕重眞有不岀戶而灼知者填臆疑團恍惚發覆余因自笑所嗜之尚未成癖若太乙氏乃堪以癖名家者耳書凢二萬五千餘頁較勘十日始付殺靑旹則歲之已已律中林鍾斗指午後之三日也歙方萬順仲裕父識
+  hash: sha256:8969e5932f5e8c70cfe9c99bf3881685809244ef76cc51a4b026633dac5e0bbc
+metadata:
+  title: 曆測
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb011.xml
+hash: sha256:c6bc67e763168fb1bdf50efe3577baa7bd0e9929ca6d13dfd9e94a31025135e0

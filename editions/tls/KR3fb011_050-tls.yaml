@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb011/tls/v1/juan/50
+seq: 50
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 日出分二十九刻二六一一半晝分二十刻七三八九入朔交泛分十四日三六五三交常度一百九十二度四二一三三八五交定度一百九十一度六三一八九八食甚入縮曆一百七十四日二九五七五四食甚入縮末曆八日三十二刻五四九六食甚入縮差度四一七八五二食甚入縮行定度一百七十三度八八五七二五食甚入縮行定末度八度七三五五二五南北泛差四度四一九一九二南北定差一度五八五二一八力東西泛差度八一二二九東西定差度四三一二五二二定加差一度一五三九六六力中交定限度一百八十九度二三九六六陰曆交後度二度四十二分七十九秒三十二微日食六分九十六秒五十微
+  hash: sha256:96e1e4a831c6c882967e649a5c6baee2ae7987ea19326dbd6ddcdb05160b4be7
+metadata:
+  title: 曆測
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb011.xml
+hash: sha256:686ffa02545486d515d828e9ff4f003fabb3a9e933dfdec5ad7bc7ab7bdde9f6

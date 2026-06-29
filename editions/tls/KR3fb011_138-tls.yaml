@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb011/tls/v1/juan/138
+seq: 138
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五百八十算五年癸已歲十月丙申朔日食未一刻甚五百七十六算至和元年甲午歲四月甲午朔日食申正一刻甚五百七十五算嘉祐四年已亥歲正月丙申朔日食未三刻復滿五百七十算六年辛丑歲六月壬子朔日食未初刻初虧五百六十八算治平三年丙午歲九月壬子朔日食未二刻甚五百六十三算熙寧二年已酉歲七月乙丑朔日食辰三刻甚五百六十算元豐三年庚申歲十一月已丑朔日食已六刻甚五百四十九算紹聖元年甲戌歲三月壬申朔日食未六刻甚五百三十五算大觀元年丁亥歲十一月壬子朔日食未二刻初虧
+  hash: sha256:edc25e06c078433ca16dba72c469908cbe5b5d7c94fd90f517419e9e5c2b5c5e
+metadata:
+  title: 曆測
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb011.xml
+hash: sha256:b2d380371ddbfb18e20d2272ca9cd39e1df8c9fc972c6cc5b2b96435a2fab55b

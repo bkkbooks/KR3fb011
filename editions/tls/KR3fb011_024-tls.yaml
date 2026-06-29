@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb011/tls/v1/juan/24
+seq: 24
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 聖治萬分之一臣今年踰七十犬馬齒衰一亘塡委溝壑則使窮年管蠡闚測竟就湮没墜千古之絕學辜先世之良法安敢終隱不言取戾聖世伏乞皇上俯埀睿覽勑下禮部細加考驗如果臣言不謬准行欽天監將舊曆訛舛䖏槩從改正頒行天下補皇朝之曠典急堯舜之先務皇天祐命於萬斯年永永無極從兹始矣臣不勝悚慄待命之至
+  hash: sha256:81384d9d8c7aa5d5fe72b498574da09bd9392b9c4b39c65b7ad77f477ffbebdb
+metadata:
+  title: 曆測
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb011.xml
+hash: sha256:a41b280139168991dad31d2883fb220d73fd28c36071989cdf31cf485b447336

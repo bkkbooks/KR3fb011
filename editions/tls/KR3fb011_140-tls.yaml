@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb011/tls/v1/juan/140
+seq: 140
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 未八刻食甚申六刻復滿五百二十二算紹興三十二年壬午歲正月戊申朔日食申初刻初虧四百六十七算淳熙十年丁卯歲十一月壬戊朔日食已正二刻甚四百四十六算慶元元年乙卯歲三月丙戌朔日食午初二刻初虧四百三十四算嘉泰二年壬戌歲五月甲辰朔日食午初二刻初虧四百二十七算嘉定元年丙子歲二月甲申朔日食申正四刻甚四百一十三算元至元十四年丁丑歲十月丙辰朔日食午初刻初虧未初一刻食甚未正二刻復滿三百五十二算大明正德九年甲戌歲八月辛卯朔日食將盡曆官報八分六十七秒
+  hash: sha256:dd37af0ebd7bfa47d76a413e576c17b9bedfa2907805d3cfc1af254e2dbdb013
+metadata:
+  title: 曆測
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb011.xml
+hash: sha256:a1824993682220b5b1d2a7ce0cb3353086b266ef579e1d4f6969f3b2c7247e41

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb011/tls/v1/juan/196
+seq: 196
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 月孛至後策法元以元至元十八年辛已歲天正經朔三十四日八五五入朔縮曆一百六十二日四一六二五入朔縮末曆二十日二五入朔縮差度九三四一三五二九入朔遲曆六日五九二八入朔遲限八十四三入朔遲行度一度九三入朔遲差五度四二六六七三加差三十三刻六八七五定朔加時縮曆一百六十二日七五三一七定朔縮末曆十九日八六八八加時入朔縮差度九二三五六加時行定度一百六十一度八三二八六取月孛至後策術以轉中十三日七七七三減轉應十三日二五餘七十五刻六八加閏應二十日二五得二十日九六一八以月平行度乘之
+  hash: sha256:fffa1e5c79d130f0e4c3b0462057cb9c3703c6ad8f3dd15d8ce6b011820aa11d
+metadata:
+  title: 曆測
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb011.xml
+hash: sha256:8a36570df24a72c723a22b6fe9a21f3925d32f92dfcf5e0b07b56345fbf2f200

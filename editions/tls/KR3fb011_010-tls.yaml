@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb011/tls/v1/juan/10
+seq: 10
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 大事力爲擔荷如日用之有飲食津津不置與伏生踰耄授尙書殆曠世兩竒人竒事云旣刻其書併摭數語爲之序崇禎二年歲在屠維大荒落首夏佛出世日天都方一藻子玄書
+  hash: sha256:a24e55201b8a9f1d98ab75f16c78d7c0f217474cfce00a5ad8b789d5ebc5ed7f
+metadata:
+  title: 曆測
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb011.xml
+hash: sha256:571f42fab192d185690a436a6b1b799dc81596a8a22b494455d8b87a68239700

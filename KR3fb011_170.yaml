@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fb011/tls/v1/juan/170
+seq: 170
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 先除一次得三十二微五四五再除一次得二秒八三得土星盈曆初末立差土星縮曆平立定三差積日積度與盈曆同惟積差一差二差三差異積度六度二十七分有奇段目積差一段一度二四一九七四二六八七五二段二度四一三七三五六九三段三度四八五七九六八六二五四段四度四二五八一六八五段五度二五六九七九三七五六段五度九四五六三五七段六度一六二四一一四七五八段六度二七八三七八八段目一差一段十分七九九七七六二五二段十分四九四五三三段十分一一六八二五四段九分六二一三八
+  hash: sha256:187f38ed2d167a6f22c1d832911af97e550a53eead8d68704c9e25775c3738b4
+metadata:
+  title: 曆測
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fb011.xml
+hash: sha256:b0f0b9fa8e2241468d006cfe94f3e34b23b1b719b08ef0fc911efb59c313a429
