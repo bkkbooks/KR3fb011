@@ -129,6 +129,5 @@ markers:
   - {type: punctuation, offset: 303, content: ○, id: KR3fb011_tls_162-bkkpn14}
   - {type: 'tls:seg', offset: 319, content: '', id: KR3fb011_tls_001-p80.s19}
   - {type: line-break, offset: 319, content: '', id: KX_19_dup71, _xml_error: duplicate-id, _xml_original_id: KX_19}
-  - {type: substitution, offset: 322, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   back: []
-hash: sha256:cdf37034047f5ea193d8716e4b96a44fb3f079441e86fa96bea888e60c057d39
+hash: sha256:d020d3c044cb95cc6caf7790ad1f2bae59d59d1f959bae176e8b3b1d657ca3e8

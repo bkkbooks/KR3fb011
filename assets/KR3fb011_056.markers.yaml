@@ -13,7 +13,6 @@ markers:
   - {type: line-break, offset: 50, content: '', id: KX_4_dup27, _xml_error: duplicate-id, _xml_original_id: KX_4}
   - {type: 'tls:seg', offset: 70, content: '', id: KR3fb011_tls_001-p27.s5}
   - {type: line-break, offset: 70, content: '', id: KX_5_dup27, _xml_error: duplicate-id, _xml_original_id: KX_5}
-  - {type: substitution, offset: 87, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: 'tls:seg', offset: 90, content: '', id: KR3fb011_tls_001-p27.s6}
   - {type: line-break, offset: 90, content: '', id: KX_6_dup27, _xml_error: duplicate-id, _xml_original_id: KX_6}
   - {type: 'tls:seg', offset: 110, content: '', id: KR3fb011_tls_001-p27.s7}
@@ -22,7 +21,6 @@ markers:
   - {type: line-break, offset: 130, content: '', id: KX_8_dup27, _xml_error: duplicate-id, _xml_original_id: KX_8}
   - {type: 'tls:seg', offset: 150, content: '', id: KR3fb011_tls_001-p27.s9}
   - {type: line-break, offset: 150, content: '', id: KX_9_dup26, _xml_error: duplicate-id, _xml_original_id: KX_9}
-  - {type: substitution, offset: 151, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: 'tls:seg', offset: 170, content: '', id: KR3fb011_tls_001-p27.s11}
   - {type: line-break, offset: 170, content: '', id: KX_11_dup26, _xml_error: duplicate-id, _xml_original_id: KX_11}
   - {type: 'tls:seg', offset: 190, content: '', id: KR3fb011_tls_001-p27.s12}
@@ -67,4 +65,4 @@ markers:
   - {type: line-break, offset: 288, content: '', id: KX_19_dup20, _xml_error: duplicate-id, _xml_original_id: KX_19}
   - {type: punctuation, offset: 301, content: ○, id: KR3fb011_tls_056-bkkpn3}
   back: []
-hash: sha256:e1dde3ce50e511a040c05c93c69abd2440fd2abea9e80df9c3885ef7a8df1018
+hash: sha256:0dcb7f5d6d6485696b8d5c832a3fd07d57c5cb235403c69b4be25079423967d1

@@ -7,7 +7,6 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KX_1_dup60, _xml_error: duplicate-id, _xml_original_id: KX_1}
   - {type: 'tls:seg', offset: 20, content: '', id: KR3fb011_tls_001-p64.s2}
   - {type: line-break, offset: 20, content: '', id: KX_2_dup64, _xml_error: duplicate-id, _xml_original_id: KX_2}
-  - {type: substitution, offset: 24, original: 旣, replacement: 既, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3216}}
   - {type: 'tls:seg', offset: 33, content: '', id: KR3fb011_tls_001-p64.s3}
   - {type: line-break, offset: 33, content: '', id: KX_3_dup64, _xml_error: duplicate-id, _xml_original_id: KX_3}
   - {type: 'tls:seg', offset: 37, content: '', id: KR3fb011_tls_001-p64.s4}
@@ -39,7 +38,6 @@ markers:
   - {type: 'tls:seg', offset: 213, content: '', id: KR3fb011_tls_001-p64.s15}
   - {type: line-break, offset: 213, content: '', id: KX_15_dup56, _xml_error: duplicate-id, _xml_original_id: KX_15}
   - {type: punctuation, offset: 227, content: ○, id: KR3fb011_tls_130-bkkpn7}
-  - {type: substitution, offset: 228, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   - {type: 'tls:seg', offset: 232, content: '', id: KR3fb011_tls_001-p64.s16}
   - {type: line-break, offset: 232, content: '', id: KX_16_dup56, _xml_error: duplicate-id, _xml_original_id: KX_16}
   - {type: 'tls:seg', offset: 233, content: '', id: KR3fb011_tls_001-p64.s17}
@@ -49,4 +47,4 @@ markers:
   - {type: 'tls:seg', offset: 273, content: '', id: KR3fb011_tls_001-p64.s19}
   - {type: line-break, offset: 273, content: '', id: KX_19_dup55, _xml_error: duplicate-id, _xml_original_id: KX_19}
   back: []
-hash: sha256:0ea94e61ca1a64676594a0cd8fff73600f1c419a6efc47fbcb2247d805f06d02
+hash: sha256:5478e0275c2a44ab189c921857b1d9a7a3fe7f956a4c9c136554811e017ebbcc
