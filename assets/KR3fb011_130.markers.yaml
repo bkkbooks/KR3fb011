@@ -7,6 +7,7 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KX_1_dup60, _xml_error: duplicate-id, _xml_original_id: KX_1}
   - {type: 'tls:seg', offset: 20, content: '', id: KR3fb011_tls_001-p64.s2}
   - {type: line-break, offset: 20, content: '', id: KX_2_dup64, _xml_error: duplicate-id, _xml_original_id: KX_2}
+  - {type: substitution, offset: 24, original: 旣, replacement: 既, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19499}}
   - {type: 'tls:seg', offset: 33, content: '', id: KR3fb011_tls_001-p64.s3}
   - {type: line-break, offset: 33, content: '', id: KX_3_dup64, _xml_error: duplicate-id, _xml_original_id: KX_3}
   - {type: 'tls:seg', offset: 37, content: '', id: KR3fb011_tls_001-p64.s4}
@@ -38,6 +39,7 @@ markers:
   - {type: 'tls:seg', offset: 213, content: '', id: KR3fb011_tls_001-p64.s15}
   - {type: line-break, offset: 213, content: '', id: KX_15_dup56, _xml_error: duplicate-id, _xml_original_id: KX_15}
   - {type: punctuation, offset: 227, content: ○, id: KR3fb011_tls_130-bkkpn7}
+  - {type: substitution, offset: 228, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19875}}
   - {type: 'tls:seg', offset: 232, content: '', id: KR3fb011_tls_001-p64.s16}
   - {type: line-break, offset: 232, content: '', id: KX_16_dup56, _xml_error: duplicate-id, _xml_original_id: KX_16}
   - {type: 'tls:seg', offset: 233, content: '', id: KR3fb011_tls_001-p64.s17}
@@ -47,4 +49,4 @@ markers:
   - {type: 'tls:seg', offset: 273, content: '', id: KR3fb011_tls_001-p64.s19}
   - {type: line-break, offset: 273, content: '', id: KX_19_dup55, _xml_error: duplicate-id, _xml_original_id: KX_19}
   back: []
-hash: sha256:5478e0275c2a44ab189c921857b1d9a7a3fe7f956a4c9c136554811e017ebbcc
+hash: sha256:d92f384dbb303a3f1e511a39f07b2b06f66477d710e3bdf2a53a82c58987220d

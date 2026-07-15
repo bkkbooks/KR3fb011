@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 大事力爲擔荷如日用之有飲食津津不置與伏生踰耄授尙書殆曠世兩竒人竒事云旣刻其書併摭數語爲之序崇禎二年歲在屠維大荒落首夏佛出世日天都方一藻子玄書
-  hash: sha256:a24e55201b8a9f1d98ab75f16c78d7c0f217474cfce00a5ad8b789d5ebc5ed7f
+  text: 大事力為擔荷如日用之有飲食津津不置與伏生踰耄授尚書殆曠世兩竒人竒事云既刻其書併托數語為之序崇禎二年歲在屠維大荒落首夏佛出世日天都方一藻子玄書
+  hash: sha256:497115baf850a149b2fda8ce21d58d314284a12d322794557d5b64ec3a05c0a8
 metadata:
   title: 曆測
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fb011.xml
-hash: sha256:571f42fab192d185690a436a6b1b799dc81596a8a22b494455d8b87a68239700
+hash: sha256:b99b480bba3f773d878d1fe16ceb0193dcbb08faafd4b6f573e257502aa6c8ef
